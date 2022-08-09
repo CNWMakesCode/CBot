@@ -81,6 +81,7 @@
     "minecraft-data": "^3.9.1",
     "minecraft-folder-path": "^1.2.0",
     "minecraft-protocol": "^1.35.1",
+    "minecraft-protocol-chat-parser": "^3.0.2",
     "mineflayer": "^4.3.0",
     "mineflayer-armor-manager": "^1.4.2",
     "mineflayer-pathfinder": "^2.3.0",
